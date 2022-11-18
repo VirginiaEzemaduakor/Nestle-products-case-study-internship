@@ -7,11 +7,14 @@
 1. [Introduction](#Introduction)
    - [Objective of the analysis  ](#Objecive-of-the-analysis)
    - [Data organization and process](#Data-organization-and-process)
+   
 2. [Tailored Analysis](#Tailored-Analysis)
    - [Total sales per product in the last 3 years](#Total-sales-per-product-in-the-last-3-years)
    - [The monthly and yearly sales trend](The-monthly-and-yearly-sales-trend)
    - [Products maximum and minimum revenue generated](#Products-maximum-and-minimum-revenue-generated)
    - [The location with the highest and lowest sales](#The-location-with-the-highest-and-lowest-sales)
+   - [Overview dashboard](Overview-dashboard)
+
 3. [Findings](#Findings) 
    
 4. [Recommendations](#Recommendations)
@@ -52,22 +55,13 @@ The data set used for the purpose of this analysis is a public dataset available
 |   nesquik duo  |    1.16M      |   1.53M        |1.59M
 |   nestle drumstick | 0.71M  | 1.64M     | 0.85M  |
 |   smarties |    0.76M     |   0.67M  |   0.94M  |                   
-|
+
 
 ### The monthly and yearly sales trend
 
 The monthly sales of this organisation has not been very steady over the 3 years trend. The figure below shows that in the 2018, the company's witnessed repeatedly rise and fall in it sales throughout the period, in 2019, the sales enhanced but with unstabe trend throughout the period (except for the month of December when it experienced a decline) surpassing 2018 and 2020 trend. Moreover, the company also witnessed an increasing and decreasing trend in the year 2020. Besides, it experienced a big fall in the month of December.  
 
-
-
-
-
-
-
-
-
-
-
+![Fig.2](images/total-revenue-by-m&y.png)
 
 ### Products maximum and minimum revenue generated
 
@@ -82,7 +76,7 @@ The monthly sales of this organisation has not been very steady over the 3 years
 |   nesquik duo  |    98,875.00  |   221.48  |  
 |   nestle drumstick | 35,875.00 |   159.45  |
 |   smarties     |    68,643.75  |   104.37  |
-|
+
 
  Comparing the company's different products based on the maximum and minimum revenue generated. According to the dataset available, maggi product has the highest maximum of $127,968.75 revenue generated followed by nes cau product $126,000.00, and nescafe gold $99,653.75; nescafe has the least maximum of $3,087.00 revenue generated; followed by kit kat with the revenue of $15,949.50. Nesquik duo has the highest minimum revenue of $221.48 generated, followed by milo with the revenue of $205.80; nescafe has the least minimum of $11.58 revenue generated.
 
@@ -93,21 +87,16 @@ Nestle is a worldwide food producer, and as such, it has numerous production fac
 
 According to the dataset, South Australia has the highest sales of $5.5 million followed by Tasmania ($5.4 million), Queensland ($4.3 million), New South Wales ($4.3 million), Northern Territory ($4.1 million), Victoria ($3.6 million), Australian Capital Territory ($3.1 million), Western Australia has the lowest sales of $0.5 million.
 
+![Fig.2](images/revenue-by-sales-location.png)
+
 ### Overview dashboard   
 
-
-
-
-
-
-
-
-
+![Fig.2](images/dashboard.png)
 
 
 ## Findings 
 
-Data from the sales medium shows sales in direct medium grew to the total of approximately $23.8 million, following exceptionally strong demand for Milo giving it total sales of approximately $6 million; followed by Nesquik Duo (~$4 million), Nes Cau and Nestle Drumstick with total sales of approximately $3.2 million respectively; Nescafe (~$2.2 million); Smarties and Maggi with total sales of approximately $2 million respectively; Nescafe Gold (~$0.891million); lastly, KitKat made low sales of approximately 0.342 million. The Online medium made the total sales of approximately $7 million; led by Nescafe (~$3 million), Kit Kat (~$2 million), Nescafe Gold (~$0.838 million), Maggi (~$0.635 million), Smarties (~$0.476 million) Nes Cau (~$0.88 million), Nesquik Duo (~$0.4 million), and Nestle Drumstick with lowest sales of approximately $0.2 million. Milo has no demand in online medium.
+Data from the sales medium shows sales in direct medium grew to the total of approximately $23.8 million, following exceptionally strong demand for Milo giving it total sales of approximately $6 million; followed by Nesquik Duo ($4 million), Nes Cau and Nestle Drumstick with total sales of approximately $3.2 million respectively; Nescafe ($2.2 million); Smarties and Maggi with total sales of approximately $2 million respectively; Nescafe Gold ($0.891 million); lastly, KitKat made low sales of approximately $0.342 million. The Online medium made the total sales of approximately $7 million led by Nescafe ($3 million), Kit Kat ($2 million), Nescafe Gold ($0.838 million), Maggi ($0.635 million), Smarties ($0.476 million) Nes Cau ($0.88 million), Nesquik Duo ($0.4 million), and Nestle Drumstick with lowest sales of approximately $0.2 million. Milo has no demand in online medium.
 
 From the data, it can be seen that the sales from direct medium are very strong compare to the sales from online medium; giving the instance where Milo has the highest demand in direct medium but zero demand in online medium. However, Nescafe and Kit Kat made a stronger sale of approximately $3 million and $2 million in online medium compare to direct medium. The no or low sales could be as a results of poor marketing strategy, consumer insight and distribution system.
 
