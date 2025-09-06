@@ -51,7 +51,7 @@ The analysis focused on the following key areas:
 
 **Product Sales:**
 
-- Milo generated the highest revenue($5.54M).
+- Milo recorded the highest revenue ($5.95M), followed by Nescafé ($5.54M).
 
 - Other strong performers included KitKat, Maggi, and Nestea.
 
